@@ -1,0 +1,11 @@
+To install python and do some stuff to get things setup:
+
+Which ide/notepad software should I use? Why
+	Jupiter notebooks will be useed for the udemy course.
+	There are a few options for IDEs, but until I get around to doing that I can just use Notepad++ and compile via the console.
+
+I need to install Python.
+
+For that other youtube video series I was checking out, there some package I need as well.
+
+
